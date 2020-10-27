@@ -18,5 +18,10 @@
 <br><br>
 
 
+<h2>GIT</h2>
+<a href="https://itch.io/jam/game-off-2020" target="_Blank">Itch.io Game off</a><br>
+
+<br><br>
+
 
 <p style="color: #684BB5; text-decoration:line-through;">Batata</p>
