@@ -14,4 +14,4 @@ https://metring.com.br/css-classe-dentro-de-outra-classe
 
 
 
-<p style="text-align:left">Batata</p>
+<p style="text-align:right">Batata</p>
