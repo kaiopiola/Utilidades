@@ -2,7 +2,7 @@
 <p>Links e outras coisas úteis</p>
 
 <h2>HTML</h2>
-
+<a href="https://metring.com.br/como-utilizar-o-google-fonts" target="_Blank">Utilizando fontes do Google Fonts</a><br>
 <br><br>
 
 
