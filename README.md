@@ -23,5 +23,10 @@
 
 <br><br>
 
+<h2>APIs de erros HTTP</h2>
+<a href="http://http.cat/" target="_Blank">http.cat</a><br>
+
+<br><br>
+
 
 <p style="color: #684BB5; text-decoration:line-through;">Batata</p>
